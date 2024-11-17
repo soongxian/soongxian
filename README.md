@@ -1,4 +1,4 @@
-<h1 align="center">Soong Xian</h1>
+<h1 align="center">👨🏻‍💻Soong Xian👨🏻‍💻</h1>
 <h3 align="center">✨Full-Stack Software Engineer | Building Awesome Software✨</h3>
 
 <div align="center">
