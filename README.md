@@ -51,13 +51,30 @@
   </tr>
 </table>
 
+<br/>
 
+## 🌟 About The Repos
+<img align="right" src="https://gist.githubusercontent.com/vaneseltine/13672fb72cda415b0eb8fa58ea879021/raw/92ecbfa8286f85ffd02c547d983979694230b80a/broccoli.gif" width="150" />
+
+Welcome to my GitHub repo, where I **commit** to sharing my self-learning journey and continuously improving my skills. 
+
+There are two types of works here:
+
+- **[ORIGINAL]**: These are projects that I have created myself.
+- **[LEARN]**: These projects are where I learn from the work of others.
+
+<br/>
+
+<!-- 
 ## 📈 GitHub Stats
 
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=soongxian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soongxian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
+-->
+
 
 ## 🐍 My Pet
 ![snake gif](https://github.com/soongxian/soongxian/blob/output/github-snake-dark.svg)
