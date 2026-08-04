@@ -51,7 +51,7 @@
 ## 🌟 About The Repos
 <img align="right" src="https://gist.githubusercontent.com/vaneseltine/13672fb72cda415b0eb8fa58ea879021/raw/92ecbfa8286f85ffd02c547d983979694230b80a/broccoli.gif" width="150" />
 
-Welcome to my GitHub repo, where I **commit** to sharing my self-learning journey and continuously improving my skills. 
+Welcome to my GitHub repo, where I **commit** to share my self-learning journey. 
 
 There are two types of works here:
 
